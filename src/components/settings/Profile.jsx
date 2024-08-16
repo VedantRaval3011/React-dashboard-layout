@@ -14,7 +14,7 @@ const Profile = () => {
 
 				<div>
 					<h3 className='text-lg font-semibold text-gray-100'>Vedant Raval</h3>
-					<Link to='https://github.com/VedantRaval3011' className="flex gap-1 items-center"> <Github size={20} /> </Link>
+					<Link to='https://github.com/VedantRaval3011' className="flex gap-1 items-center sm:justify-center"> <Github size={20} /> </Link>
 				</div>
 			</div>
 
